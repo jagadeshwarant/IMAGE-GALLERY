@@ -1,0 +1,38 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.page{
+    background-color: #EF5032;
+
+}
+
+.titlepage__main{
+    background-color: white;
+    padding: 30px;
+    border-bottom: 2px solid black;
+}
+
+.titlepage__main h1{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+    align-items: center;
+
+}
+
+.image-card{
+    width: 250px;
+    border: #EF5032 2px solid;
+}
+
+.image-card img{
+    width: 250px;
+    height: 250px;
+}
